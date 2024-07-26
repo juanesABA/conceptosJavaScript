@@ -1,0 +1,13 @@
+¿Qué es JavaScript?
+JavaScript es un lenguaje de programacion de interpretación con el cual se puede desarrollar en web, mobile, apps de escritorios y microcontroladores. JAvaScript es un lenguaje que se creo para los navegadores web los cuales utilizan un motor encargado de compilar el código de JavaScript de manera directa a como esta en el código sin necesidad de transformarlo
+
+¿Qué es un lenguaje interpretado y de compilado?
+Un lenguaje interpretado (JavaScript) en el contexto de la programación significa que el código se va a ejecutar en un orden de arriba a abajo y el resultado de ejecutar el codigo se devuelve inmediatamente. Sin transformacion del código y manteniendo la syntasix amigable con el desarrollador.
+Un lenguaje de compilados (c++) se trata de una entrega de código donde se genera una transformación del código a código de maquina para que luego se ejecute en la computadora.
+
+¿Qué es refactorizar?
+Sirve para cambiar la estructura interna sin alterar el comportamiento externo
+
+Tipos de Datos
+Primiticos: Cuando se busca el dato en la RAM se encuentra en el bloque exacto que le fue asignado
+De referencia: Cuando busca el dato primero tiene que ir a unbloque que le de la referencia de donde se encuentra el bloque que realmente busca
